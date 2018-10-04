@@ -1,6 +1,6 @@
 # Design philosophy
 
-These are the core tenets that sparked the work on Ethereum's architeture and imlementation.
+These are the core tenets that sparked the work on Ethereum's architecture and imlementation.
 
 ## Simplicity
 The Ethereum protocol should be as simple as possible, even at the cost of some data storage inefficiency or time inefficiency. An average programmer should ideally be able to follow and implement the entire specification, so as to eventually help minimize the influence that any specific individual or elite group can have on the protocol and furthering the vision of Ethereum as a protocol that is open to all. Optimizations which add complexity should not be included unless they provide very substantial benefit.
